@@ -139,7 +139,7 @@
           x = w(() =>
             (0, s._)(
               "source",
-              { src: "/audios/Pikachu.mp3", type: "audio/ogg" },
+              { src: "./audios/Pikachu.mp3", type: "audio/ogg" },
               null,
               -1
             )
@@ -489,7 +489,7 @@
                 arrSrc: [
                   "./images/1.png",
                   "./images/2.png",
-                  "/images/3.png",
+                  "./images/3.png",
                   "./images/4.png",
                   "./images/5.png",
                   "./images/6.png",
