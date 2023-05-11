@@ -4,7 +4,7 @@
       <div class="main__h1__wrapper">
         <h1 class="text-h1 text-h1--heading">pokemon card</h1>
       </div>
-      <img class="main__image" src="./pokemonbg.gif" alt="image" />
+      <img class="main__image" src="/pokemonbg.gif" alt="image" />
       <h2 class="text-h2 text-h2--heading">Select mode to play game</h2>
       <div class="card-list-wrapper">
         <ul class="card-list">

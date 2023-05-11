@@ -33,7 +33,7 @@
               />
               <img
                 class="card-item-img card-item-front"
-                src="./images/icon_back.png"
+                src="/images/icon_back.png"
                 alt="image"
               />
             </div>
