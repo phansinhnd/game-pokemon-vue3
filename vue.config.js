@@ -2,5 +2,5 @@ const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
   transpileDependencies: true,
   publicPath:
-    process.env.NODE_ENV === "production" ? "/vue-pokemon-game/dist/" : "/",
+    process.env.NODE_ENV === "production" ? "/game-pokemon-vue3/dist/" : "/",
 });
